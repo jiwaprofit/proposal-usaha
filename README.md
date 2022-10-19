@@ -63,7 +63,7 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <th>Nama sesuai nomor rekening</th>
+    <th>Nama Rekening</th>
     <th>Nomor Rekening</th>
     <th>Jumlah Investasi</th>
   </tr>
@@ -107,7 +107,7 @@ tr:nth-child(even) {
     <th>Tanggal</th>
     <th>Modal</th>
     <th>Bunga 100%</th>
-    <th>Total</th>
+    <th>Jadi</th>
   </tr>
   <tr>
     <td>Oktober 2022</td>
