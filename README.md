@@ -22,7 +22,7 @@ tr   {color: lime;}
 MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
 DIAWASI OLEH OTORITAS JASA KEUANGAN</p>
 
-<h2>Ucapan Selamat Datang ketika sudah di Jiwa Profit</h2>
+<h2>Ucapan Selamat Datang ketika sudah di kantor Jiwa Profit</h2>
 
 <ul>
   <li>Coffee</li>
@@ -31,7 +31,7 @@ DIAWASI OLEH OTORITAS JASA KEUANGAN</p>
   <li>Aqua</li>
 </ul>  
 
-<h2>Ucapan Selamat Datang ketika menjadi investor Pos Profit</h2>
+<h2>Ucapan Selamat Datang ketika menjadi investor dan anggota Jiwa Profit</h2>
 
 <ol>
   <li>Rawon</li>
