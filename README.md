@@ -97,6 +97,11 @@ tr:nth-child(even) {
     <td>6282264083228 - Link Aja</td>
     <td>20.000 IDR</td>
   </tr>
+  <tr>
+    <td>BITCOIN</td>
+    <td>1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</td>
+    <td>0.00001000 BTC</td>
+  </tr>
 </table>
 
 <h2>Tabel Fiksi Perdagangan Oktober 2022</h2>
