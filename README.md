@@ -17,7 +17,7 @@ tr   {color: lime;}
 <h1>Proposal Usaha Manajer Investasi</h1>
 <p>Jiwa Profit merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran lainnya. Karena baru memulai usaha maka Jiwa Profit saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
 <p>Kami memberikan beragam pilihan produk investasi Reksa Dana untuk Anda sesuai dengan kebutuhan Anda. Saatnya menentukan Reksa Dana Anda sekarang!</p>
-<p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Pos Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Jiwa Profit<p/>
+<p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Jiwa Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Jiwa Profit<p/>
 <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
 MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
 DIAWASI OLEH OTORITAS JASA KEUANGAN</p>
