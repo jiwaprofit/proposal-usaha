@@ -13,9 +13,26 @@ tr   {color: lime;}
 </style>
 </head>
 <body>
-
+  
+  <h1>Selamat Datang Yang Terhormat Bapak/Ibu Investor</h1>
+  <p>Pertama saya mengucapkan syukur Alhamdulillah sebagai tanda syukur atas kenikmatan yang telah dikaruniakan kepada kami</p>
+  <p>Yang kedua, saya mengucapkan terima kasih kepada yang terhormat Bapak/Ibu investor, yang telah bersedia meluangkan waktu dan kesempatannya untuk membaca
+    halaman situs Jiwa Profit yang belum sempurna ini.</p>
+  <p>Pada kesempatan yang baik ini, kami sebagai tim kreator Jiwa Profit menawarkan sebuah peluang kerjasama, yang mana penawaran kerjasama tersebut kedepannya bisa
+    saling menguntungkan antara Bapak/Ibu dengan organisasi Jiwa Profit yang sedang kami bangun dan kembangkan.</p>
+  <p>Organisasi Jiwa Profit adalah organisasi yang bergerak di bidang jasa keuangan dan investasi moderen, Jiwa Profit memiliki beberapa produk layanan yang membantu anggota, nasabah dan investor mendapat nilai tambah manfaat dari yang diusahakannya.</p>
+  
+  <h2>Produk Jiwa Profit di antaranya;</h2>
+  <ul>
+    <li>Reksa Dana</li>
+    <li>Saham</li>
+    <li>Forex</li>
+    <li>Bitcoin</li>
+    <li>Pelatihan Perdagangan di Pasar Modal</li>
+  
+  
 <h1>Proposal Usaha Manajer Investasi</h1>
-<p>Jiwa Profit merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran keuangan lainnya. Karena baru memulai usaha maka Jiwa Profit saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
+<p>Jiwa Profit kedepannya akan merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran keuangan lainnya. Karena baru memulai usaha maka Jiwa Profit saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
 <p>Kami memberikan beragam pilihan produk investasi Reksa Dana untuk Anda sesuai dengan kebutuhan Anda. Saatnya menentukan Reksa Dana Anda sekarang!</p>
 <p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Jiwa Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Jiwa Profit<p/>
 <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
