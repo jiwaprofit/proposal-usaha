@@ -29,15 +29,12 @@ tr   {color: lime;}
     <li>Forex</li>
     <li>Bitcoin</li>
     <li>Pelatihan Perdagangan di Pasar Modal</li>
-  
-  
-<h1>Proposal Usaha Manajer Investasi</h1>
+  </ul>
+    <p>Manajer Investasi di Jiwa Profit lebih berpengalaman di perdagangan Forex, manajer investasi di Jiwa Profit telah menyusun teori Metabrani, yaitu suatu uraian sistem dan strategi yang digunakan di perdagangan forex dengan pengalaman sejak tahun 2010.</p>
+  <h1>Proposal Usaha Manajer Investasi</h1>
 <p>Jiwa Profit kedepannya akan merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran keuangan lainnya. Karena baru memulai usaha maka Jiwa Profit saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
 <p>Kami memberikan beragam pilihan produk investasi Reksa Dana untuk Anda sesuai dengan kebutuhan Anda. Saatnya menentukan Reksa Dana Anda sekarang!</p>
 <p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Jiwa Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Jiwa Profit<p/>
-<p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
-MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
-DIAWASI OLEH OTORITAS JASA KEUANGAN. MESKIPUN ADANYA MASIH DEMIKIAN, JIWA PROFIT TETAP BEKERJA DENGAN PROFESIONAL DAN MEMPRIORITASKAN INVESTORNYA DEMI PERTUMBUHAN DAN KEMAJUAN USAHA KAMI. JIKA USAHA DAN ORGANISASI JIWA PROFIT SEMAKIN BERTUMBUH, PERSYARATAN YANG DI PERLUKAN DAN DI SARANKAN OLEH PEMERINTAH, KAMI SIAP DAN AKAN MENGURUSNYA.</p>
 
 <h2>Ucapan Selamat Datang ketika sudah di kantor Jiwa Profit</h2>
 
@@ -198,7 +195,8 @@ tr:nth-child(even) {
     <td>102,400</td>
   </tr>
 </table>
-
-
+  <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
+MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
+DIAWASI OLEH OTORITAS JASA KEUANGAN. MESKIPUN ADANYA MASIH DEMIKIAN, JIWA PROFIT TETAP BEKERJA DENGAN PROFESIONAL DAN MEMPRIORITASKAN INVESTORNYA DEMI PERTUMBUHAN DAN KEMAJUAN USAHA KAMI. JIKA USAHA DAN ORGANISASI JIWA PROFIT SEMAKIN BERTUMBUH DAN BERKEMBANG, PERSYARATAN UNTUK LEGALITASNYA KAMI AKAN MENGURUSNYA.</p>
 </body>
 </html>
