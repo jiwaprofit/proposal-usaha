@@ -194,6 +194,7 @@ tr:nth-child(even) {
     <td>51,200</td>
     <td>102,400</td>
   </tr>
+  <a href="https://secure.atr-tickmill.com?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=Traders+World+Cup&utm_source=link&lp=https%3A%2F%2Fwww.atr-tickmill.com%2Fid%2Fpromotions%2Ftraders-world-cup" target="_blank">Tickmill (Teregulasi FSA)</a>
 </table>
   <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
 MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
