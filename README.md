@@ -48,10 +48,10 @@ tr   {color: lime;}
 <h2>Ucapan Selamat Datang ketika menjadi investor dan anggota Jiwa Profit</h2>
 
 <ol>
-  <li>Rawon</li>
-  <li>Soto</li>
-  <li>Bakso</li>
-  <li>Pecel</li>
+  <li>Kepiting Asam Manis</li>
+  <li>Gurame</li>
+  <li>Cumi</li>
+  <li>Ayam Koloke</li>
 </ol> 
 <style>
 table {
@@ -73,7 +73,7 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>Tabel Investor</h2>
+<h2>Contoh Tabel Investor</h2>
 
 <table>
   <tr>
@@ -113,7 +113,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>BITCOIN</td>
-    <td><a href="<https://blockchair.com/bitcoin/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
+    <td><a href="<https://blockchair.com/bitcoin/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z" target="_blank">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
     <td>0.00001000 BTC</td>
   </tr>
 </table>
