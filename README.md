@@ -113,7 +113,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>BITCOIN</td>
-    <td><a>href="<https://blockchair.com/bitcoin/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
+    <td><a href="<https://blockchair.com/bitcoin/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
     <td>0.00001000 BTC</td>
   </tr>
 </table>
@@ -129,37 +129,37 @@ tr:nth-child(even) {
     <th>Jadi</th>
   </tr>
   <tr>
-    <td>Oktober 2022</td>
+    <td>Januari 2023</td>
     <td>100</td>
     <td>100</td>
     <td>200</td>
   </tr>
   <tr>
-    <td>November 2022</td>
+    <td>Februari 2023</td>
     <td>200</td>
     <td>200</td>
     <td>400</td>
   </tr>
   <tr>
-    <td>Desember 2022</td>
+    <td>Maret 2023</td>
     <td>400</td>
     <td>400</td>
     <td>800</td>
   </tr>
   <tr>
-    <td>Januari 2023</td>
+    <td>April 2023</td>
     <td>800</td>
     <td>800</td>
     <td>1,600</td>
   </tr>
   <tr>
-    <td>Februari 2023</td>
+    <td>Mei 2023</td>
     <td>1,600</td>
     <td>1,600</td>
     <td>3,200</td>
   </tr>
   <tr>
-    <td>Maret 2023</td>
+    <td>Juni 2023</td>
     <td>3,200</td>
     <td>3,200</td>
     <td>6,400</td>
