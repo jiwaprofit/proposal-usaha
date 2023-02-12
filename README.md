@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+ <title>Gapigator</title>
 <style>
 body {background-color: black;}
 h1   {color: lime;}
