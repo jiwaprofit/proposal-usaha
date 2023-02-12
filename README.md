@@ -14,29 +14,28 @@ tr   {color: lime;}
 </head>
 <body>
   
-  <h1>Selamat Datang Yang Terhormat Bapak/Ibu Investor</h1>
-  <p>Pertama saya mengucapkan syukur Alhamdulillah sebagai tanda syukur atas kenikmatan yang telah dikaruniakan kepada kami</p>
+  <h1>Selamat Datang Yang Terhormat Bapak/Ibu calon Investor dan para Investor</h1>
+  <p>Pertama saya mengucapkan syukur Alhamdulillah sebagai tanda syukur atas kenikmatan yang telah dikaruniakan kepada kita semua</p>
   <p>Yang kedua, saya mengucapkan terima kasih kepada yang terhormat Bapak/Ibu investor, yang telah bersedia meluangkan waktu dan kesempatannya untuk membaca
-    halaman situs Jiwa Profit yang belum sempurna ini.</p>
-  <p>Pada kesempatan yang baik ini, kami sebagai tim kreator Jiwa Profit menawarkan sebuah peluang kerjasama, yang mana penawaran kerjasama tersebut kedepannya bisa
-    saling menguntungkan antara Bapak/Ibu dengan organisasi Jiwa Profit yang sedang kami bangun dan kembangkan.</p>
-  <p>Organisasi Jiwa Profit adalah organisasi yang bergerak di bidang jasa keuangan dan investasi moderen, Jiwa Profit memiliki beberapa produk layanan yang membantu anggota, nasabah dan investor mendapat nilai tambah manfaat dari yang diusahakannya.</p>
+    halaman situs Gapigator yang belum sempurna ini.</p>
+  <p>Pada kesempatan yang baik ini, kami sebagai kepala tim kreator Gapigator menawarkan sebuah peluang kerjasama, yang mana penawaran kerjasama tersebut kedepannya bisa saling menguntungkan antara Bapak/Ibu dengan organisasi Gapigator yang sedang kami bangun dan kembangkan.</p>
+  <p>Organisasi Gapigator adalah organisasi yang bergerak di bidang jasa keuangan dan investasi moderen, Gapigator memiliki beberapa produk layanan yang membantu anggota, nasabah dan investor mendapat tambahan pengalaman dan nilai tambah manfaat dari yang diusahakannya.</p>
   
-  <h2>Produk Jiwa Profit di antaranya;</h2>
+  <h2>Produk Gapigator di antaranya;</h2>
   <ul>
     <li>Reksa Dana</li>
     <li>Saham</li>
     <li>Forex</li>
     <li>Bitcoin</li>
-    <li>Pelatihan Perdagangan di Pasar Modal</li>
+    <li>Pelatihan Gratis Perdagangan di Pasar Modal atau Pasar Keuangan</li>
   </ul>
-    <p>Manajer Investasi di Jiwa Profit lebih berpengalaman di perdagangan Forex, manajer investasi di Jiwa Profit telah menyusun teori Metabrani, yaitu suatu uraian sistem dan strategi yang digunakan di perdagangan forex dengan pengalaman sejak tahun 2010.</p>
+    <p>Manajer Investasi di Gapigator lebih berpengalaman di perdagangan Forex, manajer investasi di Gapigator telah menyusun teori Metabrani, yaitu suatu uraian sistem dan strategi yang digunakan di perdagangan forex dengan pengalaman sejak tahun 2010.</p>
   <h1>Proposal Usaha Manajer Investasi</h1>
-<p>Jiwa Profit kedepannya akan merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran keuangan lainnya. Karena baru memulai usaha maka Jiwa Profit saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
+<p>Gapigator kedepannya akan merupakan tempat perusahaan Manajer Investasi yang mengelola produk investasi Reksa Dana dan usaha campuran keuangan lainnya. Karena baru memulai usaha maka Gapigator saat ini baru memiliki dana kelolaan sekitar Satu Juta Rupiah </p>
 <p>Kami memberikan beragam pilihan produk investasi Reksa Dana untuk Anda sesuai dengan kebutuhan Anda. Saatnya menentukan Reksa Dana Anda sekarang!</p>
-<p>Bagi hasil hingga 10% perbulan atau 100% pertahun. Tertarik? Tunjukkan minat Anda berinvestasi bersama Jiwa Profit agar mengetahui persyaratan, peluang dan risiko berinvestasi di Jiwa Profit<p/>
+<p>Bagi hasil hingga 10% perbulan atau 100% pertahun dengan memahami risiko kegagalannya juga, jika target tersebut tidak sampai seperti yang di harapkan di awal. Tertarik? Tunjukkan minat Anda berinvestasi bersama Gapigator agar mengetahui persyaratan, peluang dan risiko berinvestasi di Gapigator<p/>
 
-<h2>Ucapan Selamat Datang ketika sudah di kantor Jiwa Profit</h2>
+<h2>Ucapan Selamat Datang ketika sudah di kantor Gapigator</h2>
 
 <ul>
   <li>Coffee</li>
@@ -49,9 +48,9 @@ tr   {color: lime;}
 
 <ol>
   <li>Kepiting Asam Manis</li>
-  <li>Gurame</li>
-  <li>Cumi</li>
-  <li>Ayam Koloke</li>
+  <li>Gurame Bakar </li>
+  <li>Cumi Lada Hitam</li>
+  <li>Udang Asam Manis</li>
 </ol> 
 <style>
 table {
@@ -196,8 +195,8 @@ tr:nth-child(even) {
   </tr>
   <a href="https://secure.atr-tickmill.com?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=Traders+World+Cup&utm_source=link&lp=https%3A%2F%2Fwww.atr-tickmill.com%2Fid%2Fpromotions%2Ftraders-world-cup" target="_blank">Tickmill (Teregulasi FSA)</a>
 </table>
-  <p>INVESTASI MELALUI REKSA DANA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
-MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. JIWA PROFIT BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
-DIAWASI OLEH OTORITAS JASA KEUANGAN. MESKIPUN ADANYA MASIH DEMIKIAN, JIWA PROFIT TETAP BEKERJA DENGAN PROFESIONAL DAN MEMPRIORITASKAN INVESTORNYA DEMI PERTUMBUHAN DAN KEMAJUAN USAHA KAMI. JIKA USAHA DAN ORGANISASI JIWA PROFIT SEMAKIN BERTUMBUH DAN BERKEMBANG, PERSYARATAN UNTUK LEGALITASNYA KAMI AKAN MENGURUSNYA.</p>
+  <p>INVESTASI MELALUI REKSA DANA ATAU DUNIA KEUANGAN LAINNYA MENGANDUNG RISIKO. CALON INVESTOR WAJIB MEMBACA DAN MEMAHAMI PROSPEKTUS SEBELUM MEMUTUSKAN UNTUK BERINVESTASI
+MELALUI REKSA DANA. KINERJA MASA LALU TIDAK MENCERMINKAN KINERJA MASA DATANG. GAPIGATOR BELUM MEMILIKI IZIN USAHA, BELUM TERDAFTAR DAN BELUM
+DIAWASI OLEH OTORITAS JASA KEUANGAN. MESKIPUN ADANYA MASIH DEMIKIAN, GAPIGATOR TETAP MENJUNJUNG TINGGI INTEGRITAS, BEKERJA DENGAN PROFESIONAL DAN MEMPRIORITASKAN INVESTORNYA DEMI PERTUMBUHAN DAN KEMAJUAN USAHA KAMI. JIKA USAHA DAN ORGANISASI GAPIGATOR SEMAKIN BERTUMBUH DAN BERKEMBANG, KEDEPANNYA PERSYARATAN UNTUK LEGALITASNYA TENTU AKAN MENGURUSNYA DEMI KELANCARAN USAHA KITA BERSAMA.</p>
 </body>
 </html>
