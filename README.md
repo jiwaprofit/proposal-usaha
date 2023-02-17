@@ -113,7 +113,7 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>BITCOIN</td>
-    <td><a href="https://api.blockchair.com/bitcoin/dashboards/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z?transaction_details=true&omni=1">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
+    <td><a href="https://explorer.btc.com/btc/address/1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z">1FpFunkgPPe4DUJCVQvxKjtxgZVdRrjA9Z</a></td>
     <td>0.00001000 BTC</td>
   </tr>
 </table>
