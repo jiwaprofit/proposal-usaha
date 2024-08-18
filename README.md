@@ -1,26 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
- <title>Gapigator</title>
-<style>
-body {background-color: black;}
-h1   {color: lime;}
-h2   {color: lime;}
-h3   {color: lime;}
-p    {color: lime;}
-ul   {color: lime;}
-ol   {color: lime;}
-tr   {color: lime;}
-</style>
-</head>
-<body>
-  
-  <h1>Selamat Datang Yang Terhormat Bapak/Ibu calon Investor dan para Investor</h1>
+  <h1>Selamat Datang Yang Terhormat Bapak/Ibu calon Investor dan para Investor Kafe Gunung</h1>
   <p>Pertama saya mengucapkan syukur Alhamdulillah sebagai tanda syukur atas kenikmatan yang telah dikaruniakan kepada kita semua</p>
-  <p>Yang kedua, saya mengucapkan terima kasih kepada yang terhormat Bapak/Ibu investor, yang telah bersedia meluangkan waktu dan kesempatannya untuk membaca
-    halaman situs Gapigator yang belum sempurna ini.</p>
-  <p>Pada kesempatan yang baik ini, kami sebagai kepala tim kreator Gapigator menawarkan sebuah peluang kerjasama, yang mana penawaran kerjasama tersebut kedepannya bisa saling menguntungkan antara Bapak/Ibu dengan organisasi Gapigator yang sedang kami bangun dan kembangkan.</p>
-  <p>Organisasi Gapigator adalah organisasi yang bergerak di bidang jasa keuangan dan investasi moderen, Gapigator memiliki beberapa produk layanan yang membantu anggota, nasabah dan investor mendapat tambahan pengalaman dan nilai tambah manfaat dari yang diusahakannya.</p>
+  <p>Yang kedua, saya mengucapkan terima kasih kepada yang terhormat Bapak/Ibu Investor, yang telah bersedia meluangkan waktu dan kesempatannya untuk membaca
+    halaman situs Kafe Gunung yang belum sempurna ini.</p>
+  <p>Pada kesempatan yang baik ini, kami sebagai kepala tim kreator Kafe Gunung menawarkan sebuah peluang kerjasama, yang mana penawaran kerjasama tersebut kedepannya bisa saling menguntungkan antara Bapak/Ibu dengan usaha Kafe Gunung yang sedang kami bangun dan kembangkan.</p>
+  <p>Organisasi usaha Kafe Gunung adalah organisasi yang bergerak di bidang jasa keuangan dan investasi moderen, Kafe Gunung memiliki beberapa produk layanan yang membantu anggota, nasabah dan investor mendapat tambahan pengalaman dan nilai tambah manfaat dari yang diusahakannya.</p>
   
   <h2>Produk Gapigator di antaranya;</h2>
   <ul>
